@@ -7,15 +7,17 @@ Else the application terminates
 
 */
 
-var brothers = 5
+var isTrue = false
 
 do {
+    println("How many siblings does Paulo have? ")
+    var answer: Int? = readLine()!!.toInt()
 
-    println("How many Brothers I have? ")
-    val responder = readLine()!!.toInt()
-    println("Try Again")
-    if (responder == brothers) {
-        println("Thank you")
+    when(answer){
+        12 -> {
+            println("Correct")
+            isTrue = true
+        } else -> println("You're wrong \n")
     }
 
-} while (responder != 5)
+} while(isTrue == false)
