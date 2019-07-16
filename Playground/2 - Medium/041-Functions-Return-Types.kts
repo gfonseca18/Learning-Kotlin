@@ -5,7 +5,8 @@ fun pers(name: String, last: String) : String {
 println(pers("James", "Bound"))
 
 
-//
+// Other Double
+
 println()
 
 fun mult(numb: Int, numb2: Int) : Double {
@@ -14,3 +15,10 @@ fun mult(numb: Int, numb2: Int) : Double {
 }
 
 println(mult(9, 90))
+
+
+// Other with Integer
+
+fun integer(a: Int, b: Int) : Int {
+
+}
