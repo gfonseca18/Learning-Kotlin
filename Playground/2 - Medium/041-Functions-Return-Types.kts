@@ -1,3 +1,6 @@
+// Other Return String
+println()
+
 fun pers(name: String, last: String) : String {
     return "$name $last"
 }
@@ -5,7 +8,7 @@ fun pers(name: String, last: String) : String {
 println(pers("James", "Bound"))
 
 
-// Other Double
+// Other Return Double
 println()
 
 fun mult(numb: Int, numb2: Int) : Double {
@@ -16,7 +19,7 @@ fun mult(numb: Int, numb2: Int) : Double {
 println(mult(9, 90))
 
 
-// Other with Integer
+// Other Return Integer
 println()
 
 
@@ -28,7 +31,7 @@ fun integer(a: Int, b: Int) : Int {
 println(integer(100, 500))
 
 
-// Boolean
+// Return Boolean
 println()
 
 
@@ -49,3 +52,12 @@ fun bool(sex: Boolean, age: Int) : Boolean {
 }
 
 bool(true, 25)
+
+// Return String
+println()
+
+fun getUserName(name: String): String {
+    return name
+}
+
+println(getUserName(" I love Kotlin language"))
