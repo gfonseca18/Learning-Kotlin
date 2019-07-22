@@ -13,7 +13,24 @@ class House(type: String, price: Double, yearBuild: Int, owner: String){
 }
 
 var place = House("Quintal", 5.000, 1980, "Angola State" )
-print("""
-    This is ${place.type} cust ${place.price} Build in ${place.yearBuild}, 
-    propriet of ${place.owner}
-""")
+print(
+        """
+        This is ${place.type} cust ${place.price} Build in ${place.yearBuild}, 
+        propriet of ${place.owner}
+"""
+)
+
+// Change Object
+
+place.type = "Bank"
+place.price = 900.0000
+place.yearBuild
+place.owner = "GPL"
+
+
+print(
+        """
+        This is ${place.type} cust ${place.price} Build in ${place.yearBuild}, 
+        propriet of ${place.owner}
+"""
+)
