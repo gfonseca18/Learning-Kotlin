@@ -30,3 +30,16 @@ fun loopStep() {
 }
 
 loopStep()
+
+
+println()
+println("===== === Loop for with downTo == =====")
+
+
+fun loopDown() {
+    for (i in 20 downTo 5) {
+        println(i)
+    }
+}
+
+loopDown()
