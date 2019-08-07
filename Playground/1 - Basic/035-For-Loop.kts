@@ -14,3 +14,19 @@ for (item in 0..20) {
         println("$item isn't divisible by 2")
     }
 }
+
+println()
+println("===== === Loop for with steps == =====")
+
+
+// "Loop for with steps"
+
+println("Loop for with steps")
+
+fun loopStep() {
+    for (i in 1..30 step 2 ) {
+        println(i)
+    }
+}
+
+loopStep()
