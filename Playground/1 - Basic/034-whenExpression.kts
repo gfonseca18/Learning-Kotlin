@@ -36,3 +36,20 @@ println()
 println("=== ===== === === ")
 
 println("")
+
+// When expression with function
+
+fun calc(a: Int, b: Int, c: String): Int {
+    when (c) {
+        "Soma" -> {
+            return a + b
+        }
+        "Subst" -> {
+            return a - b
+        }
+        else -> {
+            println("Op. Errada")
+            return 0
+        }
+    }
+}
