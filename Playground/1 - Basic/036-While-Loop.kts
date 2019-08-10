@@ -10,3 +10,12 @@ while (counter <= 10) {
     }
 }
 
+
+println("====== === while with conversion type = = = = ")
+
+
+ var i = 1
+    while (i.toFloat() <= 10){
+        i += 1
+        println(i)
+    }

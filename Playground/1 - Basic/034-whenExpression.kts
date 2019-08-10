@@ -35,4 +35,44 @@ when (guessNumber) {
 println()
 println("=== ===== === === ")
 
-println("")
+println("When expression with function and parameters")
+
+// When expression with function
+
+fun calc(a: Int, b: Int, c: String): Int {
+    when (c) {
+        "Soma" -> {
+            return a + b
+        }
+        "Subst" -> {
+            return a - b
+        }
+        else -> {
+            println("Op. Errada")
+            return 0
+        }
+    }
+}
+
+
+// Other
+
+println()
+println("=== ===== === === ")
+
+println("when expression with ( in )")
+
+fun notasEscolares() {
+    var grade = 10
+    when (grade) {
+        in 0..5 -> {
+            println("Reprovado")
+        }
+        in 5..7 -> {
+            println("Recurso")
+        }
+        in 8..10 -> {
+            println("Aprovado")
+        }
+    }
+}
