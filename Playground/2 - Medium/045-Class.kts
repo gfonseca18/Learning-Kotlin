@@ -91,3 +91,20 @@ println(
             Size: ${kz_100.size} mm
         """.trimIndent()
 )
+
+println()
+println("Practice Class and lambda function")
+println()
+
+//
+
+class UberX (var brand: String, var model: String, var price: Double)
+
+var timeOfTrip: (Int) -> Double = {
+    it * vehicle.price
+}
+
+var vehicle = UberX("Tesla", "S", 500.0)
+
+println("Vehicle ${vehicle.brand}, Model ${vehicle.model}, Cost ${vehicle.price} per hour")
+println("John Connor use this vehicle for 2 hour and cost him ${timeOfTrip(2)} Kz")
