@@ -12,7 +12,7 @@ fun main() {
 
     println("Seu nome em maiúsculas $name".toUpperCase())
     println("Seu nome em minúsculas $name".toLowerCase())
-    println("O seu nome tem no total ${name.length} caracteres") // Inclui os espaços
+    println("O seu nome tem no total ${name.filter { !it.isWhitespace() }.length} caracteres")
 
 }
 
