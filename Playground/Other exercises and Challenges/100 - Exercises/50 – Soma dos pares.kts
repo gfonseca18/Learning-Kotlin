@@ -7,16 +7,23 @@ Se o valor digitado for ímpar, desconsidere-o.
 
 
 fun main() {
-    val numbers = mutableListOf<Int>()
+    val listOfNumbers = mutableListOf<Int>()
+
     while (true) {
-        println("Digite um numero: ")
+        println("Digite um número: ")
         val number = readLine()!!.toInt()
-        numbers.add(number)
-        if (numbers.size > 5) {
-            println("Numeros digitados: $numbers")
-            break
+        listOfNumbers.add(number)
+
+        if (listOfNumbers.size > 5) {
+            if (number % 2 == 0) {
+                listOfNumbers.add(number)
+                listOfNumbers.removeLast()
+                println("A soma dos números PARES na lista: ${listOfNumbers.sum()}")
+                break
+            }
         }
     }
+    println("Números digitados $listOfNumbers")
 }
 
 main()
