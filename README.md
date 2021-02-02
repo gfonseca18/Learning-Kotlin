@@ -1,4 +1,7 @@
 # Learn-Kotlin
+
+New adventure to Kotlin World
+
 ## New adventure to Kotlin Programming Language 
 This is a shared learning experience, not one reference repository. We deliberately took everything we are learning and we share in this repository, the idea is go from basic to advanced topic.
 
@@ -19,3 +22,8 @@ If you want to join us on this journey sit free, but if you want to succeed in y
 we have a list with a lot of exercises solved and by solving it will help you to practice and be more confident.
 
 2. With each solved exercise or lesson learned you will add to github and share your solution with us this will keep many beginners active!
+
+#### Remember
+*Write a lot of code!
+Coding is a skill.*
+
