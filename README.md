@@ -16,7 +16,10 @@ That's include basic algorithms, games and more fun coding.
 With you the fundamentals of coding and computational thinking so that you can pick up consider like a book on any programming language and not feel totally lost. 
 We compile a lot of exercises and basic projects for learning purpose you can find there on the web.
 
-#### :vertical_traffic_light: Rules 
+#### Rules
+
+
+#### :vertical_traffic_light: Join Rules 
 If you want to join us on this journey sit free, but if you want to succeed in your learning process there are only 2 rules:
 1. Every day you will spend 1h reading, watching Kotlin tutorials or writing code
 we have a list with a lot of exercises solved and by solving it will help you to practice and be more confident.
