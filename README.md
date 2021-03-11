@@ -20,5 +20,4 @@ Se você quiser se juntar a mim nesta jornada, fique à vontade, mais se quiser 
 1. Selecciona o seu material de estudo e passaras 1h lendo, assistindo as aulas/tutoriais ou escrevendo código, tem uma lista de exercícios que te pode ajudar a praticar e ter mais confiança.
 2. Com cada exercício resolvido ou lição aprendida, você adicionará ao github e poderás compartilhará sua solução comigo via issue, isso manterá muitos iniciantes activos!
 
-
 Escreva muito código, codificar é uma habilidade.
