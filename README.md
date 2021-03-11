@@ -2,31 +2,23 @@
 
 New adventure to Kotlin World
 
-## New adventure to Kotlin Programming Language 
-This is a shared learning experience, not one reference repository. We deliberately took everything we are learning and we share in this repository, the idea is go from basic to advanced topic.
+## Aventura no mundo Kotlin
 
-That's include basic algorithms, games and more fun coding.
+Uma nova aventura na linguagem de programação Kotlin, este é uma experiência de aprendizagem que desejo compartilhar, não é um repositório de referência. Pego deliberadamente tudo que estou aprendendo e compartilhamos neste repositório, a ideia é ir do básico ao avançado.
 
-#### :dart: Our goal is to
-- Learn
-- Teach
-- Share
- - and get Fun :wink:
+: dart: Objectivos
+Aprender
+Ensinar
+Compartilhar : wink:
 
-With you the fundamentals of coding and computational thinking so that you can pick up consider like a book on any programming language and not feel totally lost. 
-We compile a lot of exercises and basic projects for learning purpose you can find there on the web.
+Para não me sentir totalmente perdido compilei exercícios e projectos básicos para fins de estudos e aprendizagem.
 
-#### Rules
+### : vertical_traffic_light: Regras desta aventura
 
+Se você quiser se juntar a mim nesta jornada, fique à vontade, mas se quiser ter sucesso em seu processo de aprendizagem, existem apenas 2 regras:
 
-#### :vertical_traffic_light: Join Rules 
-If you want to join us on this journey sit free, but if you want to succeed in your learning process there are only 2 rules:
-1. Every day you will spend 1h reading, watching Kotlin tutorials or writing code
-we have a list with a lot of exercises solved and by solving it will help you to practice and be more confident.
+Selecciona o seu material de estudo e passaras 1h lendo, assistindo as aulas/tutoriais ou escrevendo código, tem uma lista de exercícios que te pode ajudar a praticar e ter mais confiança.
 
-2. With each solved exercise or lesson learned you will add to github and share your solution with us this will keep many beginners active!
+Com cada exercício resolvido ou lição aprendida, você adicionará ao github e poderás compartilhará sua solução comigo via issue, isso manterá muitos iniciantes activos!
 
-#### Remember
-*Write a lot of code!
-Coding is a skill.*
-
+Escreva muito código, codificar é uma habilidade.
