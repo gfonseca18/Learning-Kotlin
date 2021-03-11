@@ -2,11 +2,13 @@
 
 <h1 align="center"><strong> AVENTURAS NO KOTLIN-VILLAGE </strong></h1>
 
-<img src="https://github.com/an-jorge/Learning-Kotlin/blob/master/Playground/4%20-%20Assets/Kotlin-logo.png" alt="Kotlin logo">
- 
-Uma nova aventura na linguagem de programação Kotlin, este é uma experiência de aprendizagem que desejo compartilhar, não é um repositório de referência. Pego deliberadamente tudo que estou aprendendo e compartilhamos neste repositório, a ideia é ir do básico ao avançado.
+[](https://github.com/an-jorge/Learning-Kotlin/blob/master/Playground/4%20-%20Assets/Kotlin-logo.png")
 
-:dart: Objectivos
+ 
+Uma nova aventura na linguagem de programação Kotlin, este é uma experiência de aprendizagem que desejo compartilhar, não é um repositório de referência.
+Pego deliberadamente tudo que estou aprendendo e compartilhamos neste repositório, a ideia é ir do básico ao avançado.
+
+### :dart: Objectivos
  - Aprender
  - Ensinar
  - Compartilhar :wink:
@@ -18,6 +20,6 @@ Para não me sentir totalmente perdido compilei exercícios e projectos básicos
 Se você quiser se juntar a mim nesta jornada, fique à vontade, mais se quiser ter sucesso em seu processo de aprendizagem, existem apenas 2 regras:
 
 1. Selecciona o seu material de estudo e passaras 1h lendo, assistindo as aulas/tutoriais ou escrevendo código, tem uma lista de exercícios que te pode ajudar a praticar e ter mais confiança.
-2. Com cada exercício resolvido ou lição aprendida, você adicionará ao github e poderás compartilhará sua solução comigo via issue, isso manterá muitos iniciantes activos!
+2. A cada exercício resolvido ou lição aprendida, você adicionará no github ou poderás partilhar a sua solução comigo via issue, isso manterá muitos iniciantes no activos!
 
 Escreva muito código, codificar é uma habilidade.
