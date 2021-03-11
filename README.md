@@ -23,8 +23,10 @@ tem uma lista de exercícios que te pode ajudar a praticar e ter mais confiança
 2. A cada exercício resolvido ou lição aprendida, você adicionará no github ou poderás partilhar a sua solução comigo via issue, 
 isso manterá muitos iniciantes no activos!
 
-
-
-
-
 Escreva muito código, codificar é uma habilidade.
+
+
+[<p align="center"> Guia para contribuições </p>](https://github.com/an-jorge/Learning-Kotlin/blob/master/contributions.md)
+
+
+
