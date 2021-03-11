@@ -1,9 +1,9 @@
-# Learn-Kotlin
+# Learning-Kotlin
 
-New adventure to Kotlin World
+<h1 align="center"><strong> AVENTURAS NO KOTLIN-VILLAGE </strong></h1>
 
-## Aventura no mundo Kotlin
-
+<img src="https://github.com/an-jorge/Learning-Kotlin/blob/master/Playground/4%20-%20Assets/Kotlin-logo.png" alt="Kotlin logo">
+ 
 Uma nova aventura na linguagem de programação Kotlin, este é uma experiência de aprendizagem que desejo compartilhar, não é um repositório de referência. Pego deliberadamente tudo que estou aprendendo e compartilhamos neste repositório, a ideia é ir do básico ao avançado.
 
 :dart: Objectivos
