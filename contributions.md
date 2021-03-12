@@ -1,4 +1,4 @@
-# Obrigado por seu interesse em ajudar
+# Obrigado pelo seu interesse em ajudar!
 
 ## Como contribuir?
 
