@@ -1,6 +1,6 @@
 # EXERCICIOS 2 #
 
-**01 - **Gerador de Sloga**</br>
+**01 - Gerador de Sloga**</br>
 **Exercício de Kotlin 01:** - Faça um programa que gerem slogans para determinadas empresa cadastradas em seu banco de dados
 *Ex.*
 
