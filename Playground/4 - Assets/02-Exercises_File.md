@@ -11,4 +11,8 @@
 **Exercício de Kotlin 02:** - Faça um programa que pergunte o nome de um funcionário, o seu programa deve identifique se o campo "nome do funcionário" estiver vazio com espaços em branco ou não. Caso o usuário tenham digitado mostre o nome na saída do programa.
 
 **03 - Pontuações de excelência**</br>
-**Exercício de Kotlin 02:** - Faça um programa que atribuía de forma randómica notas de 0 á 10 a restaurantes da sua região
+**Exercício de Kotlin 03:** - Faça um programa que atribuía de forma randómica notas de 0 á 10 a restaurantes da sua região
+
+**04 - Calculadora**</br>
+**Exercício de Kotlin 04:** Faça uma calculadora que receba dois valores do tipo Float é um número correspondente a operação [+  x  -  %].
+Imprima o resultado como Float ou uma mensagem de erro caso um dos valores seja nulo.
