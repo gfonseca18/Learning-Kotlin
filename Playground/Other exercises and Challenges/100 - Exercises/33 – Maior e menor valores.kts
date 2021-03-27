@@ -5,18 +5,19 @@ mostre qual é o maior e qual é o menor.
  */
 
 fun main() {
-    val numbList = mutableListOf<Int>()
+    val listOfNumbers = mutableListOf<Int>()
     println("Primeiro número: ")
-    val numb1 = readLine()!!.toInt()
-    numbList.add(numb1)
+    val numberOne = readLine()!!.toInt()
+    listOfNumbers.add(numberOne)
     println("Segundo número: ")
-    val numb2 = readLine()!!.toInt()
-    numbList.add(numb2)
+    val numbTwo = readLine()!!.toInt()
+    listOfNumbers.add(numbTwo)
     println("Terceiro número:")
-    val numb3 = readLine()!!.toInt()
-    numbList.add(numb3)
-    println("Your numbers: $numbList")
-    
+    val numbThree = readLine()!!.toInt()
+    listOfNumbers.add(numbThree)
+    println("Números digitados: $listOfNumbers. ${listOfNumbers.maxOrNull()} " +
+            "E o maior número, ${listOfNumbers.minOrNull()} menor número".trimMargin())
+
 }
 
 main()
