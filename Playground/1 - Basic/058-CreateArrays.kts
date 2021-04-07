@@ -26,4 +26,12 @@ for (i in 0..5){
     println("$i of 8")
 }
 
-println(b.count())
+println(b.count()) // Get the size of array
+
+// Interator
+
+val iterador = (0..5).iterator()
+
+iterador.forEach {
+    println("The element is $it")
+}
