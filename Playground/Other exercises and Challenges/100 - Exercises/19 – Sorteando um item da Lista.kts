@@ -1,3 +1,9 @@
+/*
+19 – Sorteando um item da Lista
+Exercício Python 019: Um professor quer sortear um dos seus quatro alunos para apagar o quadro.
+
+*/
+
 fun main() {
     
     val students = arrayListOf("Anna", "Carlos", "Antho", "Eli")
