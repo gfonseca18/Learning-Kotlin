@@ -1,3 +1,8 @@
+var empty: String? = null
+empty = "Hello World"
+println(empty)
+
+
 fun variables(){
     var name = "Jonhny"
     var last = "Cage"

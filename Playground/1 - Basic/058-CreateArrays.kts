@@ -1,9 +1,5 @@
 var array = emptyArray<String>()  // Empty Array of String
 
-
-//
-// Mix array
-
 var a = arrayOf(1, 3, 5, 5, Boolean, 12.30, true) // Mix Array
 
 
@@ -13,10 +9,6 @@ var array2 = Array<Int>(5){2}   // The element is number 2, 5 is the size (lenth
 array2[0] = 100 // Change the array element by Index
 println(array2[0])
 
-println(array)
-
-
-// Add element in Array
 
 
 var  b = arrayOf("B", "V", 32, Boolean, 32,2, false)
@@ -26,4 +18,12 @@ for (i in 0..5){
     println("$i of 8")
 }
 
-println(b.count())
+println(b.count()) // Get the size of array
+
+// Interator
+
+val iterador = (0..5).iterator()
+
+iterador.forEach {
+    println("The element is $it")
+}
