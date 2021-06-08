@@ -1,4 +1,4 @@
-# EXERCICIOS 2 #
+# EXERCÍCIOS 2 #
 
 
 **01 — Gerador de Sloga**</br>
