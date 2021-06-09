@@ -21,3 +21,17 @@ if (a >= b || b <= a) {
 if (a == b && b == a && c == a && c == b) {
     println("A: $a, B: $b, C: $c - Have same value")
 }
+
+
+
+// Example
+
+fun main() {
+    println("Informe o seu nome: ")
+    val name = readLine()!!
+    if (name.isNullOrEmpty() || name.isNullOrBlank())
+        println("Nome informado é invalido")
+        return
+}
+
+main()
