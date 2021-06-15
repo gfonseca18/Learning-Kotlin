@@ -26,6 +26,13 @@ região
 valide se a pessoa está na lista e se é maior de idade, retornar a mensagem de acordo as validações feitas.
 
 
-**05 - Calculadora**</br>
-**Exercício de Kotlin 04:** Faça uma calculadora que receba dois valores do tipo Float é um número correspondente a operação [+  x  -  %].
+**05 - Calculadora**
+**Exercício de Kotlin 05:** Faça uma calculadora que receba dois valores do tipo Float é um número correspondente a operação [+  x  -  %].
 Imprima o resultado como Float ou uma mensagem de erro caso um dos valores seja nulo.
+
+
+**06 — Kotlin program to check whether given number is positive, negative or zero**</br>
+**Exercício de Kotlin 06:**
+
+A positive number is a number which is greater than 0, a negative number is a number which is less than 0, else the number is Zero. 
+Given a number num, we have to check whether it is positive, negative, or zero.
