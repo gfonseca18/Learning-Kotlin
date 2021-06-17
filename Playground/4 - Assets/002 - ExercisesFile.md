@@ -29,3 +29,7 @@ valide se a pessoa está na lista e se é maior de idade, retornar a mensagem de
 **Exercício de Kotlin 05**: — Faça uma calculadora que receba dois valores do tipo Float é um número correspondente a 
 operação [+  x  -  %].
 Imprima o resultado como Float ou uma mensagem de erro caso um dos valores seja nulo.
+
+
+**06 — Largest of three numbers**</br>
+Find the largest number from given 3 numbers in Kotlin programming language
