@@ -33,3 +33,7 @@ Imprima o resultado como Float ou uma mensagem de erro caso um dos valores seja 
 
 **06 — Largest of three numbers**</br>
 Find the largest number from given 3 numbers in Kotlin programming language
+
+
+**07 — Kotlin program to swap two numbers**</br>
+Swap two given numbers in Kotlin programming language
