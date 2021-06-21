@@ -1,3 +1,9 @@
+/*
+06 — Largest of three numbers
+Find the largest number from given 3 numbers in Kotlin programming language
+
+*/
+
 fun main() {
     println("The first number")
     val first = readLine()!!.toInt()
