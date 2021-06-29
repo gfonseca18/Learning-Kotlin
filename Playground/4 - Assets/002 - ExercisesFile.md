@@ -26,6 +26,32 @@ valide se a pessoa está na lista e se é maior de idade, retornar a mensagem de
 
 
 **05 — Calculadora**</br>
-**Exercício de Kotlin 05**: — Faça uma calculadora que receba dois valores do tipo Float é um número correspondente a 
-operação [+  x  -  %].
+**Exercício de Kotlin 05**: — Faça uma calculadora que receba dois valores do tipo Float é um número correspondente a operação [+  x  -  %].
 Imprima o resultado como Float ou uma mensagem de erro caso um dos valores seja nulo.
+
+
+**07 — Swap two numbers**</br>
+**Exercício de Kotlin 07**: — 
+Here, we are going to learn how to swap two given numbers in Kotlin programming language?
+Submitted by IncludeHelp, on April 20, 2020
+
+Given two numbers, we have to swap them.
+
+Example:
+
+    Input:
+    First number: 10
+    Second number: 20
+
+    Output:
+    First number: 20
+    Second number: 10
+
+
+**08 — Carrinho de supermercado**</br>
+**Exercício de Kotlin 08**: — Escreva um programa que recebe alguns produtos 
+como argumentos, validar se esses produtos estão na lista de itens disponíveis no
+supermercado.
+Caso estejam. Avisar ao utilizador quais produtos tem e quais nāo tem e por último,
+exibir a lista dos produtos disponíveis ordenados por ordem alfabética do mercado,
+para que o utilizador possa pedir na próxima vez.
