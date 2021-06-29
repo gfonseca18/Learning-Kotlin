@@ -30,6 +30,10 @@ valide se a pessoa está na lista e se é maior de idade, retornar a mensagem de
 Imprima o resultado como Float ou uma mensagem de erro caso um dos valores seja nulo.
 
 
+**06 — Largest of three numbers**</br>
+Find the largest number from given 3 numbers in Kotlin programming language
+
+
 **07 — Swap two numbers**</br>
 **Exercício de Kotlin 07**: — 
 Here, we are going to learn how to swap two given numbers in Kotlin programming language?
@@ -51,7 +55,7 @@ Example:
 **08 — Carrinho de supermercado**</br>
 **Exercício de Kotlin 08**: — Escreva um programa que recebe alguns produtos 
 como argumentos, validar se esses produtos estão na lista de itens disponíveis no
-supermercado.
-Caso estejam. Avisar ao utilizador quais produtos tem e quais nāo tem e por último,
+supermercado. Caso estejam. Avisar ao utilizador quais produtos tem e quais nāo tem e por último,
 exibir a lista dos produtos disponíveis ordenados por ordem alfabética do mercado,
 para que o utilizador possa pedir na próxima vez.
+
