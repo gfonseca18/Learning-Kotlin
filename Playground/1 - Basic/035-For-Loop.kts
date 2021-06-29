@@ -6,8 +6,18 @@ for (i in 1..5) {
 
 println()
 
+fun control(arguments: Array<String>) {
+    for (indice in 0 until arguments.size)
+        println("Percorrido os argumentos: posiçāo $indice valor: ${arguments[indice]}")
+}
+control(arguments = arrayOf("Miss", "Petroleo", "Gas", "Lion", "Loves"))
 
-for (item in 0..20) {
+
+//
+
+println()
+
+for (item in 0..15) {
     if (item % 2 == 0) {
         println("$item is divisible by 2")
     } else {
@@ -24,7 +34,7 @@ println("===== === Loop for with steps == =====")
 println("Loop for with steps")
 
 fun loopStep() {
-    for (i in 1..30 step 2 ) {
+    for (i in 1..20 step 2 ) {
         println(i)
     }
 }
@@ -37,7 +47,7 @@ println("===== === Loop for with downTo == =====")
 
 
 fun loopDown() {
-    for (i in 20 downTo 5) {
+    for (i in 10 downTo 3) {
         println(i)
     }
 }
