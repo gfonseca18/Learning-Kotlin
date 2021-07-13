@@ -59,3 +59,15 @@ supermercado. Caso estejam. Avisar ao utilizador quais produtos tem e quais nāo
 exibir a lista dos produtos disponíveis ordenados por ordem alfabética do mercado,
 para que o utilizador possa pedir na próxima vez.
 
+
+**09 — Aniversario de amigos **</br>
+**Exercício de Kotlin 09**: — Escrever um algoritmo que leia informações sobre um grupo de 10 
+pessoas e calcule alguns dados estatísticos.
+Para cada pessoa do grupo deve ler
+    — o nome da pessoa
+    — a altura
+    — o peso 
+    — e o sexo (F para mulheres M para homens).
+Calcule e escreva a quantidade de homens, mulheres e a percentagem de cada.
+A média de peso das pessoas (somando pesos de todas as pessoas pela quantidade de pessoas)
+O nome da pessoa mais alta.
