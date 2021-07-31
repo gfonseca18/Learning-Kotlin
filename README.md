@@ -28,6 +28,7 @@ Escreva muito código, codificar é uma habilidade.
 
 
 [<p align="center"> Guia para contribuições </p>](https://github.com/an-jorge/Learning-Kotlin/blob/master/contributions.md)
+[<p align="center"> Currículo de Kotlin para iniciantes </p>](https://docs.google.com/document/d/1XIJaV3zhn-tJhDc_6Kr00lmTo5zCBuES3Yt67wX752M/edit#heading=h.bu3otrsctru2)
 
 
 
