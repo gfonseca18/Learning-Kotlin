@@ -1,8 +1,6 @@
 # Kotlin-lang
 
-<h1 align="center"><strong> AVENTURAS NO KOTLIN-VILLAGE </strong></h1>
-
-<img src = "https://github.com/an-jorge/Learning-Kotlin/blob/master/Playground/4%20-%20Assets/Kotlin-logo.png">
+<img src = "https://github.com/an-jorge/Learning-Kotlin/blob/master/3-Assets/kotlin-log.png">
  
 Uma nova aventura na linguagem de programação Kotlin, este é uma experiência de aprendizagem que desejo compartilhar, não é um repositório de referência.
 Pego deliberadamente tudo que estou aprendendo e compartilho neste repositório, com a ideia de ir do básico ao avançado.
@@ -28,6 +26,7 @@ Escreva muito código, codificar é uma habilidade.
 
 
 [<p align="center"> Guia para contribuições </p>](https://github.com/an-jorge/Learning-Kotlin/blob/master/contributions.md)
+
 [<p align="center"> Currículo de Kotlin para iniciantes </p>](https://docs.google.com/document/d/1XIJaV3zhn-tJhDc_6Kr00lmTo5zCBuES3Yt67wX752M/edit#heading=h.bu3otrsctru2)
 
 
