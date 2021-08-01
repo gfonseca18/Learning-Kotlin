@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src = "https://github.com/an-jorge/Learning-Kotlin/blob/master/3-Assets/kotlin-logo.png"><br>
+<img src = "https://github.com/an-jorge/Learning-Kotlin/blob/master/3-Assets/Kotlin-logo.png">
  </div>
 
  
@@ -12,7 +12,6 @@ Pego deliberadamente tudo que estou aprendendo e compartilho neste repositório,
  - Aprender
  - Ensinar
  - Compartilhar :wink:
-
 
 Para não me sentir totalmente perdido compilei exercícios e projectos básicos para fins de estudos e aprendizagem.
 
