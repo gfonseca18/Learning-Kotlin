@@ -10,7 +10,7 @@ No final, mostre qual foi o maior e o menor valor digitado e as suas respectivas
 fun main() {
 
    val list = mutableListOf<Int>()
-   repeat(5) {
+   rep
       println("Digite o ${it +1}º número >: ")
       val number = readLine()!!.toInt()
       list.add(number)
