@@ -6,14 +6,18 @@ Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome
 
 */
 
-println("Digite o nome para verificar se contém o nome ''SILVA'' ")
-
 fun main() {
-    val name = readLine()!!.toString().toUpperCase()
+    println("Digite o nome para verificar se contém o nome ''SILVA'' ")
+
+    val name = readLine()!!.toString().uppercase()
+    if (name.isEmpty() || name.isBlank()) {
+        println("Por favor verique o nome digitado")
+        return
+    }
     if (name.contains("SILVA")) {
-        println("Bingo")
+        println("Bingo! O nome tem SILVA")
     } else {
-        println("Nop")
+        println("Nop! O nome nāo tem SILVA")
     }
 }
 
