@@ -14,7 +14,7 @@ fun main() {
     }
 
     println(" <: A pessoa mais pesada tem ${weightPeople.maxOrNull()} " +
-            "kz o mais leve tem ${weightPeople.minOrNull()} Kg")
+            "kg o mais leve tem ${weightPeople.minOrNull()} Kg")
 }
 
 main()
